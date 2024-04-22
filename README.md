@@ -6,7 +6,7 @@ SQL Project to Analyze Zomato data
 - Postgre SQL
 - PgAdmin 4
 
-Zomato Database
+- Zomato Database-
 
 ![Screenshot 2024-04-22 130631](https://github.com/Kapildarwani22/SQL-Zomato-Analysis/assets/116799321/bafe9d4e-3414-469f-830a-f1359870ffac)
 
